@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoyoyokith2424
+- 👋 Hi, I’m Yokith Surya
 - 👀 I’m interested in ...All kinds of Coding languages
 - 🌱 I’m currently learning ...Web development
 - 💞️ I’m looking to collaborate on ...simple and basic web developing projects
