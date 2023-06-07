@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yokith Surya
-I'm a life enthusiast who is inquisitive about EVERYTHING, whether it's about how Apis(aka honey bees) life influences humanity or why humans do what they do. What can I say, I'd rather be a jack of all trades than a trouble hands.
+- I'm a life enthusiast who is inquisitive about EVERYTHING, whether it's about how Apis(aka honey bees) influences the biosphere or why humans do what they do. What can I say, I'd rather be a jack of all trades than a trouble hands.
 - 📫 How to reach me ... yokithsuryam@gmail.com
 
 <!---
