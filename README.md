@@ -4,22 +4,24 @@
 <div align="center">
    <b>👋 Hello there, I’m Yokith Surya</b>
    <br>
-   <b>I’m learning to program to quell my ancestral urge to explore and conquer.</b>
+   <br>
+    <b>A Passionate Developer on a Quest to Conquer the Digital Realm 🌐 </b>
   <br>
   <br>
-	<a href="mailto:yokithsuryam@gmail.com" target="_blank" title="Gmail"> 
+  <br>
+	<a href="mailto: yokithsuryam@gmail.com" class="Gmail" target="_blank" title="Gmail"> 
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/yokith-surya-m" target="_blank" title="LinkedIn">
+	<a href="https://www.linkedin.com/in/yokith-surya-m" class="LinkedIn" target="_blank" title="LinkedIn">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/yoyoyokith20" target="_blank" title="Twitter">
+	<a href="https://twitter.com/yoyoyokith20" class="Twitter" target="_blank" title="Twitter">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://github.com/yoyoyokith2424" target="_blank" title="Github">
+	<a href="https://github.com/yoyoyokith2424" class="Github" target="_blank" title="Github">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
-	<a href="https://codepen.io/yoyoyokith2424" target="_blank" title="Codepen.io">
+	<a href="https://codepen.io/yoyoyokith2424" class="Codepen" target="_blank" title="Codepen.io">
 		<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 	</a>
     <br>
@@ -29,10 +31,67 @@
 	</a>
   <br>
   <br>
-  <b>Page is Under Construction....</b>
-</div>
+    
+  <q>The only limit to our realization of tomorrow will be our doubts of today.</q>
+  <i>   - Franklin D. Roosevelt</i>
+    
+  </div>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
